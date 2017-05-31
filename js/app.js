@@ -1,1 +1,2 @@
-// A module pattern should be used here
+console.log("js cargado..");
+
